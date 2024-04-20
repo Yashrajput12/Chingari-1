@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "info",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "Arun Kumar", //don't change the credits please
+	credits: "Ansh rajpoot", //don't change the credits please
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -30,11 +30,11 @@ var callback = () => api.sendMessage({body:`❤𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃
 
 ☄️Bot Name︎︎︎☄️ ⚔ ${global.config.BOTNAME} ⚔
 
-🔥𝐁𝐨𝐭 𝐨𝐰𝐧𝐞𝐫 🔥☞︎︎︎ RKO BRO ☜︎︎︎✰ 
+🔥𝐁𝐨𝐭 𝐨𝐰𝐧𝐞𝐫 🔥☞︎︎︎ AK ☜︎︎︎✰ 
 ●▬▬▬▬๑۩۩๑▬▬▬▬
-🙈𝐨𝐰𝐧𝐞𝐫 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐋𝐢𝐧𝐤🙈➪  https://www.facebook.com/profile.php?id=100084573213860https://www.facebook.com/profile.php?id=100084573213860 💞🕊️
+🙈𝐨𝐰𝐧𝐞𝐫 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐋𝐢𝐧𝐤🙈➪  https://www.facebook.com/profile.php?id=100087553921985https://www.facebook.com/profile.php?id=100087553921985 💞🕊️
    ⃟ Other contacts ☑  ⃠
-✅𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦👉 @himalpaudel112
+✅𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦👉 @anshrajpoot
 ✅𝐘𝐨𝐮𝐓𝐮𝐛𝐞 🗡 xina hau
 ✧══════•❁❀❁•══════✧
 
